@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&family=Roboto:wght@100&family=Viga&display=swap');
+body{
+background-color: #FFFFE0;
+margin: 0;
+font-family: 'Inter', 'Roboto', 'Viga', sans-serif;
+}
+
+.zakaz{
+    background-size: cover;
+    background-image: url("");
+
+}
+p{
+font-family: Viga;
+font-size: 50px ;
+
+}
+
+
+.t1{
+width: 100%;
+height: 100%;
+position: absolute;
+top: 0;
+left: 0;
+overflow: auto;
+
+}
+
+
+.a{
+
+font-size: 50px;
+
+}
+
+.ononas{
+width: 900px;
+height: 1200px;
+position: absolute;
+top: 50%;
+left: 50%;
+margin: -600px 0 0 -600px;
+
+
+font-size: 50px;
+font-family: Roboto;
+text-decoration: none;
+color: black;
+
+justify-content:center;
+margin-right: 200px;
+
+}
+
+.white {
+    color:white;
+    font-weight:bold
+}
+
+
+
+
+
+
+.prostotak{
+position: relative ;
+background-color: black;
+width: 100%;
+height: 300px;
+}
+
+.korobochka{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: flex-start;
+background-color: white;
+right
+position: absolute;
+
+}
+
+.korobochka>a{
+background-image: url("");
+font-size: 50px;
+font-family: Roboto;
+text-decoration: none;
+color: black;
+}
+
+
+
+
+header{
+display:flex;
+justify-content:space-evenly;
+margin: 20px;
+
+}
+
+.text{
+    justify-content:space-evenly;
+    margin-right: 320px;
+    margin-top: 200px;
+    }
+
+
+nav>a{
+text-decoration:none;
+margin-left: 2% ;
+
+}
+nav{
+display: flex;
+justify-content:space-evenly;
+width: 40%;
+}
+
+.logo{
+position: relative;
+right: 20%;
+}
+
+
